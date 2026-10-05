@@ -1,0 +1,148 @@
+{
+  "variants": {
+    "facing=south,part=bottom,side=left": {
+      "model": "thief:block/rack_bottom_left",
+      "y": 0
+    },
+    "facing=south,part=bottom,side=center": {
+      "model": "thief:block/rack_bottom_center",
+      "y": 0
+    },
+    "facing=south,part=bottom,side=right": {
+      "model": "thief:block/rack_bottom_right",
+      "y": 0
+    },
+    "facing=south,part=middle,side=left": {
+      "model": "thief:block/rack_middle_left",
+      "y": 0
+    },
+    "facing=south,part=middle,side=center": {
+      "model": "thief:block/rack_middle_center",
+      "y": 0
+    },
+    "facing=south,part=middle,side=right": {
+      "model": "thief:block/rack_middle_right",
+      "y": 0
+    },
+    "facing=south,part=top,side=left": {
+      "model": "thief:block/rack_top_left",
+      "y": 0
+    },
+    "facing=south,part=top,side=center": {
+      "model": "thief:block/rack_top_center",
+      "y": 0
+    },
+    "facing=south,part=top,side=right": {
+      "model": "thief:block/rack_top_right",
+      "y": 0
+    },
+    "facing=west,part=bottom,side=left": {
+      "model": "thief:block/rack_bottom_left",
+      "y": 90
+    },
+    "facing=west,part=bottom,side=center": {
+      "model": "thief:block/rack_bottom_center",
+      "y": 90
+    },
+    "facing=west,part=bottom,side=right": {
+      "model": "thief:block/rack_bottom_right",
+      "y": 90
+    },
+    "facing=west,part=middle,side=left": {
+      "model": "thief:block/rack_middle_left",
+      "y": 90
+    },
+    "facing=west,part=middle,side=center": {
+      "model": "thief:block/rack_middle_center",
+      "y": 90
+    },
+    "facing=west,part=middle,side=right": {
+      "model": "thief:block/rack_middle_right",
+      "y": 90
+    },
+    "facing=west,part=top,side=left": {
+      "model": "thief:block/rack_top_left",
+      "y": 90
+    },
+    "facing=west,part=top,side=center": {
+      "model": "thief:block/rack_top_center",
+      "y": 90
+    },
+    "facing=west,part=top,side=right": {
+      "model": "thief:block/rack_top_right",
+      "y": 90
+    },
+    "facing=north,part=bottom,side=left": {
+      "model": "thief:block/rack_bottom_left",
+      "y": 180
+    },
+    "facing=north,part=bottom,side=center": {
+      "model": "thief:block/rack_bottom_center",
+      "y": 180
+    },
+    "facing=north,part=bottom,side=right": {
+      "model": "thief:block/rack_bottom_right",
+      "y": 180
+    },
+    "facing=north,part=middle,side=left": {
+      "model": "thief:block/rack_middle_left",
+      "y": 180
+    },
+    "facing=north,part=middle,side=center": {
+      "model": "thief:block/rack_middle_center",
+      "y": 180
+    },
+    "facing=north,part=middle,side=right": {
+      "model": "thief:block/rack_middle_right",
+      "y": 180
+    },
+    "facing=north,part=top,side=left": {
+      "model": "thief:block/rack_top_left",
+      "y": 180
+    },
+    "facing=north,part=top,side=center": {
+      "model": "thief:block/rack_top_center",
+      "y": 180
+    },
+    "facing=north,part=top,side=right": {
+      "model": "thief:block/rack_top_right",
+      "y": 180
+    },
+    "facing=east,part=bottom,side=left": {
+      "model": "thief:block/rack_bottom_left",
+      "y": 270
+    },
+    "facing=east,part=bottom,side=center": {
+      "model": "thief:block/rack_bottom_center",
+      "y": 270
+    },
+    "facing=east,part=bottom,side=right": {
+      "model": "thief:block/rack_bottom_right",
+      "y": 270
+    },
+    "facing=east,part=middle,side=left": {
+      "model": "thief:block/rack_middle_left",
+      "y": 270
+    },
+    "facing=east,part=middle,side=center": {
+      "model": "thief:block/rack_middle_center",
+      "y": 270
+    },
+    "facing=east,part=middle,side=right": {
+      "model": "thief:block/rack_middle_right",
+      "y": 270
+    },
+    "facing=east,part=top,side=left": {
+      "model": "thief:block/rack_top_left",
+      "y": 270
+    },
+    "facing=east,part=top,side=center": {
+      "model": "thief:block/rack_top_center",
+      "y": 270
+    },
+    "facing=east,part=top,side=right": {
+      "model": "thief:block/rack_top_right",
+      "y": 270
+    }
+  }
+}

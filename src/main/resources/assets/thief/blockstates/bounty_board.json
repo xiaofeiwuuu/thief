@@ -1,0 +1,68 @@
+{
+  "variants": {
+    "facing=south,column=left,row=bottom": {
+      "model": "thief:block/bounty_board_left_bottom",
+      "y": 0
+    },
+    "facing=south,column=left,row=top": {
+      "model": "thief:block/bounty_board_left_top",
+      "y": 0
+    },
+    "facing=south,column=right,row=bottom": {
+      "model": "thief:block/bounty_board_right_bottom",
+      "y": 0
+    },
+    "facing=south,column=right,row=top": {
+      "model": "thief:block/bounty_board_right_top",
+      "y": 0
+    },
+    "facing=west,column=left,row=bottom": {
+      "model": "thief:block/bounty_board_left_bottom",
+      "y": 90
+    },
+    "facing=west,column=left,row=top": {
+      "model": "thief:block/bounty_board_left_top",
+      "y": 90
+    },
+    "facing=west,column=right,row=bottom": {
+      "model": "thief:block/bounty_board_right_bottom",
+      "y": 90
+    },
+    "facing=west,column=right,row=top": {
+      "model": "thief:block/bounty_board_right_top",
+      "y": 90
+    },
+    "facing=north,column=left,row=bottom": {
+      "model": "thief:block/bounty_board_left_bottom",
+      "y": 180
+    },
+    "facing=north,column=left,row=top": {
+      "model": "thief:block/bounty_board_left_top",
+      "y": 180
+    },
+    "facing=north,column=right,row=bottom": {
+      "model": "thief:block/bounty_board_right_bottom",
+      "y": 180
+    },
+    "facing=north,column=right,row=top": {
+      "model": "thief:block/bounty_board_right_top",
+      "y": 180
+    },
+    "facing=east,column=left,row=bottom": {
+      "model": "thief:block/bounty_board_left_bottom",
+      "y": 270
+    },
+    "facing=east,column=left,row=top": {
+      "model": "thief:block/bounty_board_left_top",
+      "y": 270
+    },
+    "facing=east,column=right,row=bottom": {
+      "model": "thief:block/bounty_board_right_bottom",
+      "y": 270
+    },
+    "facing=east,column=right,row=top": {
+      "model": "thief:block/bounty_board_right_top",
+      "y": 270
+    }
+  }
+}

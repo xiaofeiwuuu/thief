@@ -1,0 +1,9 @@
+{
+  "ambientocclusion": false,
+  "textures": {
+    "wood": "minecraft:block/stripped_oak_log",
+    "rope": "minecraft:block/hay_block_side",
+    "particle": "minecraft:block/oak_planks"
+  },
+  "elements": []
+}
